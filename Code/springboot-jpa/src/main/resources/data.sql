@@ -1,0 +1,1 @@
+insert into user(id,date_of_birth,first_name,last_name,user_role) values  (1,"1987-09-12", 'Anand', 'kumar', 'OWNER');
